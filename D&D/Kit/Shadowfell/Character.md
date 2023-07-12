@@ -74,9 +74,9 @@
 2. Psionic Mind
 4. Breath Weapon: Thunder
     * May replace Attack
+    * Use proficiency times, long rest recharge
     * 15' cone, Dex save DC = 8 + CON + Proficiency
     * 1d10 thunder, halved on save
-    * Use proficiency times, long rest recharge
 5. Divine Sense
     * Action
     * 1 + Charisma uses, long rest recharge
@@ -100,24 +100,22 @@
     * +2 to damage rolls
 9. Divine Health
     * Immune to disease
-10. Sacred Oath
-    * Level 3: One use
-    * Channel Divinity:
-        1. Harness Divine Power
-            * Regain one spell slot
-            * Recover on long rest
-        2. Nature's Wrath
-            * Ensare foe with spectral vines
-            * Evil fey or fiend within 10'
-            * Must see character
-            * STR or DEX save, foe choice: restrained if fail
-            * Repeat saving through each turn to free
-            * Vines disappear after success
-        3. Turn the Faithless
-            * Turned creature must spend its turns trying to move as far away
-            * Evil fey or fiend within 30'
-            * Must hear character
-            * Can't willingly move within 30' of char
-            * 1 minute or until damaged
-            * True forms revealed
+10. Sacred Oath: Channel Divinity
+    * One use, long rest recharge
+    1. Harness Divine Power
+        * Regain one spell slot
+    2. Nature's Wrath
+        * Ensare foe with spectral vines
+        * Evil fey or fiend within 10'
+        * Must see character
+        * STR or DEX save, foe choice: restrained if fail
+        * Repeat saving through each turn to free
+        * Vines disappear after success
+    3. Turn the Faithless
+        * Turned creature must spend its turns trying to move as far away
+        * Evil fey or fiend within 30'
+        * Must hear character
+        * Can't willingly move within 30' of char
+        * 1 minute or until damaged
+        * True forms revealed
 
