@@ -72,9 +72,6 @@
 # Traits
 1. Draconic Resistance: Thunder
 2. Psionic Mind
-3. Languages
-    * Common
-    * ???
 4. Breath Weapon: Thunder
     * May replace Attack
     * 15' cone, Dex save DC = 8 + CON + Proficiency
