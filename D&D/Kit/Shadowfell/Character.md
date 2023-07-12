@@ -69,7 +69,7 @@
 - Spear: 1d6 piercing, thrown 20'/60'
 - Trinket: A metal can that has no opening but sounds as if it is filled with liquid
 
-# Traits
+# Features & Traits
 1. Draconic Resistance: Thunder
 2. Psionic Mind
 4. Breath Weapon: Thunder
@@ -85,8 +85,7 @@
     * Object or place consecrated or desecrated
 6. Lay on Hands
     * Action
-    * Heal wounds pool of HP × 5
-    * Refresh on long rest
+    * Heal wounds pool of HP × 5, long rest recharge
     * 5 points to cure one disease or poison
     * Can cure multiple disease or poison
     * Does not affect undead or constructs
