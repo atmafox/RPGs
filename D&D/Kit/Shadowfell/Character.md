@@ -1,5 +1,5 @@
 # Basics
-- Name: ???
+- Name: Celes
 - Race: [Amethyst dragonborn but thunder](https://5e.tools/races.html#dragonborn%20(gem)_ftd)
 - Class: [Ancients Paladin](https://5e.tools/classes.html#paladin_phb,state:sub-ancients-phb=b1)
 - Background: [Outlander](https://5e.tools/backgrounds.html#outlander_phb)
